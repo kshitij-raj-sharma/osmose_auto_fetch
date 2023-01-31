@@ -1,0 +1,533 @@
+item,source_id,class,country,analyser,timestamp,menu,title,count
+1070,22301,1,yemen,Osmosis_Highway_VS_Building,2023-01-28 21:21:28+00:00,objects overlap,Highway intersecting building,12804
+0,22299,2,yemen,Osmosis_Building_Overlaps,2023-01-28 21:21:28+00:00,overlapping building,Large building intersection,4254
+2020,22293,804,yemen,Sax,2023-01-28 21:21:28+00:00,elevation,Missing altitude,3227
+9003,22293,9003001,yemen,Sax,2023-01-28 21:21:28+00:00,geometry,{{0.key}}={{0.value}} on a node. Should be used on a way.,1922
+0,22299,1,yemen,Osmosis_Building_Overlaps,2023-01-28 21:21:28+00:00,overlapping building,Building intersection,1777
+9001,22293,9001001,yemen,Sax,2023-01-28 21:21:28+00:00,combinations,missing tag,1608
+1230,22325,5,yemen,Osmosis_Duplicated_Geotag,2023-01-28 21:21:28+00:00,duplicate geometry,Duplicated node without tag,1514
+1210,32828,4,yemen,Osmosis_Highway_Floating_Islands,2023-01-28 21:21:28+00:00,not-connected highway/cycleway,Small highway group apart from the main network or with insufficient access upstream,977
+4061,22293,40610,yemen,Sax,2023-01-28 21:21:28+00:00,fixme review,Object needs review,787
+2110,22293,21101,yemen,Sax,2023-01-28 21:21:28+00:00,missing object kind,Untagged named object,773
+5060,22293,50601,yemen,Sax,2023-01-28 21:21:28+00:00,local language,Default and local language name not the same,752
+9001,22293,9001002,yemen,Sax,2023-01-28 21:21:28+00:00,combinations,suspicious tag combination,573
+1140,22310,2,yemen,Osmosis_Useless,2023-01-28 21:21:28+00:00,missing tag or role,Missing tag or role on way,569
+7040,22303,4,yemen,Osmosis_Powerline,2023-01-28 21:21:28+00:00,power lines,Non power node on power way,484
+1070,22301,5,yemen,Osmosis_Highway_VS_Building,2023-01-28 21:21:28+00:00,objects overlap,Highway intersecting large water piece,450
+5070,22293,50701,yemen,Sax,2023-01-28 21:21:28+00:00,invalid character,Some value chars does not match the language charset,386
+9002,22293,9002001,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,deprecated tagging,316
+4030,22293,900,yemen,Sax,2023-01-28 21:21:28+00:00,incompatible tags,Tag conflict,276
+1220,22324,3,yemen,Osmosis_Waterway,2023-01-28 21:21:28+00:00,waterway,Unconnected stream or wrong way flow,274
+1220,22324,2,yemen,Osmosis_Waterway,2023-01-28 21:21:28+00:00,waterway,Unconnected river or wrong way flow,219
+3031,22293,30314,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,Missing primary Wikipedia tag,219
+9011,22293,9011015,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,"''{{1.key}}'' tag is set, but no ''{{0.key}}'' tag. Make sure to set ''wikipedia=language:value'' for the main article and optional ''wikipedia:language=value'' only for additional articles that are not just other language variants of the main article.",219
+1070,22301,4,yemen,Osmosis_Highway_VS_Building,2023-01-28 21:21:28+00:00,objects overlap,Highway intersecting small water piece,210
+4020,22293,101,yemen,Sax,2023-01-28 21:21:28+00:00,on junction=roundabout,Unneeded tag on junction=roundabout,168
+1310,438594,1,yemen,Osmosis_Building_In_Polygon,2023-01-28 21:21:28+00:00,building landuse,Building on agricultural land,153
+4010,22293,40102,yemen,Sax,2023-01-28 21:21:28+00:00,disused,Deprecated value,152
+2060,22305,19,yemen,Osmosis_Relation_AssociatedStreet,2023-01-28 21:21:28+00:00,street numbers,"Tag ""addr:street"" not matching a street name around",149
+2060,22293,10,yemen,Sax,2023-01-28 21:21:28+00:00,street numbers,Invalid addr:housenumber value,141
+9003,22293,9003003,yemen,Sax,2023-01-28 21:21:28+00:00,geometry,{{0.key}}={{0.value}} on a node. Should be drawn as an area.,139
+1120,22307,3,yemen,Osmosis_Highway_Broken_Level_Continuity,2023-01-28 21:21:28+00:00,broken highway continuity,Broken highway level continuity,135
+0,22299,4,yemen,Osmosis_Building_Overlaps,2023-01-28 21:21:28+00:00,overlapping building,Gap between buildings,114
+7040,22303,6,yemen,Osmosis_Powerline,2023-01-28 21:21:28+00:00,power lines,Unfinished power minor line,84
+9002,22293,9002007,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,{{0.key}}={{0.value}} is unspecific. Please replace ''{{0.value}}'' by a specific value.,83
+3010,22295,3,yemen,Osmosis_Roundabout_Level,2023-01-28 21:21:28+00:00,highway roundabout,Roundabout shortcut,80
+5060,22293,50603,yemen,Sax,2023-01-28 21:21:28+00:00,local language,Language name without default name,76
+1250,22328,2,yemen,Osmosis_Highway_Bad_Intersection,2023-01-28 21:21:28+00:00,objects intersection,Intersection of unrelated highway and waterway objects,69
+9010,22293,9010003,yemen,Sax,2023-01-28 21:21:28+00:00,unnecessary,descriptive name,68
+9004,22293,9004004,yemen,Sax,2023-01-28 21:21:28+00:00,highway,Unspecific highway type,62
+1270,27746,1,yemen,Osmosis_Highway_Almost_Junction,2023-01-28 21:21:28+00:00,almost junction,"Almost junction, join or use noexit tag",62
+5060,22293,50602,yemen,Sax,2023-01-28 21:21:28+00:00,local language,Local language name without default name,62
+4061,22293,40611,yemen,Sax,2023-01-28 21:21:28+00:00,fixme review,Highway classification needs review,62
+3200,22293,32002,yemen,Sax,2023-01-28 21:21:28+00:00,area,Untagged area object,61
+5010,22293,903,yemen,Sax,2023-01-28 21:21:28+00:00,orthograph,Too many spaces,58
+1150,22309,3,yemen,Osmosis_Polygon_Overlaps,2023-01-28 21:21:28+00:00,surface intersection,Area intersection `landuse`,57
+3091,22293,3091,yemen,Sax,2023-01-28 21:21:28+00:00,numeric value,Invalid numerical value,55
+3161,22327,2,yemen,Osmosis_Parking_highway,2023-01-28 21:21:28+00:00,parking lane,Missing access way to parking,52
+2060,22305,1,yemen,Osmosis_Relation_AssociatedStreet,2023-01-28 21:21:28+00:00,street numbers,"addr:housenumber or addr:housename without addr:street, addr:district, addr:neighbourhood, addr:quarter, addr:suburb, addr:place or addr:hamlet must be in a associatedStreet relation",52
+9006,22293,9006008,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,{{0.key}} must be a numeric value,49
+5070,22293,50702,yemen,Sax,2023-01-28 21:21:28+00:00,invalid character,Non printable char,48
+4110,22293,41104,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect layer,Long Highway underground and no tunnel,45
+1080,22302,1,yemen,Osmosis_Orphan_Nodes_Cluster,2023-01-28 21:21:28+00:00,orphan nodes,Orphan nodes cluster,45
+1090,33714,3,yemen,Osmosis_Highway_CulDeSac_Level,2023-01-28 21:21:28+00:00,sudden highway type change,Sudden highway type change (level 3),44
+9010,22293,9010001,yemen,Sax,2023-01-28 21:21:28+00:00,unnecessary,unnecessary tag,44
+7040,22303,1,yemen,Osmosis_Powerline,2023-01-28 21:21:28+00:00,power lines,Lone power tower or pole,43
+7130,22293,71301,yemen,Sax,2023-01-28 21:21:28+00:00,tunnel/bridge,Missing maxheight tag,37
+5070,22293,50704,yemen,Sax,2023-01-28 21:21:28+00:00,invalid character,Unbalanced quotation mark or bracket in name,37
+1090,33714,2,yemen,Osmosis_Highway_CulDeSac_Level,2023-01-28 21:21:28+00:00,sudden highway type change,Sudden highway type change (level 2),36
+1120,22307,2,yemen,Osmosis_Highway_Broken_Level_Continuity,2023-01-28 21:21:28+00:00,broken highway continuity,Broken highway level continuity,34
+3040,22293,3040,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect tag,Bad tag value,34
+2140,22293,21411,yemen,Sax,2023-01-28 21:21:28+00:00,public_transport route,Missing public_transport tag on a public transport stop,33
+1070,22301,8,yemen,Osmosis_Highway_VS_Building,2023-01-28 21:21:28+00:00,objects overlap,Highway intersecting highway,32
+9000,22293,9000004,yemen,Sax,2023-01-28 21:21:28+00:00,addresses,{{0.key}} without number,32
+4110,22293,41107,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect layer,Waterway/water underground and no tunnel,32
+7040,22303,2,yemen,Osmosis_Powerline,2023-01-28 21:21:28+00:00,power lines,Unfinished power major line,25
+9100,22293,91003,yemen,Sax,2023-01-28 21:21:28+00:00,power transformer,Power Transformers should have a frequency tag,25
+1120,22307,1,yemen,Osmosis_Highway_Broken_Level_Continuity,2023-01-28 21:21:28+00:00,broken highway continuity,Broken highway level continuity,24
+5010,22293,803,yemen,Sax,2023-01-28 21:21:28+00:00,orthograph,Name with uppercase,22
+3093,22293,30931,yemen,Sax,2023-01-28 21:21:28+00:00,URL,The URL contains a space,21
+1230,22325,1,yemen,Osmosis_Duplicated_Geotag,2023-01-28 21:21:28+00:00,duplicate geometry,Duplicated way geometry and tags,19
+1190,33715,30,yemen,Osmosis_Way_Approximate,2023-01-28 21:21:28+00:00,approximate way,Approximate geometry of highway,19
+1090,33714,1,yemen,Osmosis_Highway_CulDeSac_Level,2023-01-28 21:21:28+00:00,sudden highway type change,Sudden highway type change (level 1),17
+5080,30234,1,yemen,Osmosis_Highway_Name_Close,2023-01-28 21:21:28+00:00,similar name,Close similar name,17
+4110,22293,41103,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect layer,Highway underground and no tunnel,15
+3080,22293,30801,yemen,Sax,2023-01-28 21:21:28+00:00,swimming pool,Suspicious tag association - possible confusion between swimming_pool and sports_centre,15
+3070,22293,3070,yemen,Sax,2023-01-28 21:21:28+00:00,multiple values,Multiple values,13
+9005,22293,9005001,yemen,Sax,2023-01-28 21:21:28+00:00,multiple,{{0.key}} with multiple values,13
+3060,22293,3060,yemen,Sax,2023-01-28 21:21:28+00:00,similar values,Duplicated values,12
+3130,22293,31301,yemen,Sax,2023-01-28 21:21:28+00:00,brand in name,"This name is very common, is this store part of the brand network?",11
+5070,22293,50703,yemen,Sax,2023-01-28 21:21:28+00:00,invalid character,Unexpected symbol in name,11
+3031,427979,3,yemen,Wikidata,2023-01-26 04:00:40+00:00,wikipedia,Redirected value for Wikidata tag,9
+4070,22293,40701,yemen,Sax,2023-01-28 21:21:28+00:00,construction,Inconsistent tagging of {{1.key}},9
+3093,22293,30932,yemen,Sax,2023-01-28 21:21:28+00:00,URL,The URL does not have a valid scheme,9
+1190,33715,20,yemen,Osmosis_Way_Approximate,2023-01-28 21:21:28+00:00,approximate way,Approximate geometry of waterway,9
+1170,22293,11704,yemen,Sax,2023-01-28 21:21:28+00:00,multipolygon,This multipolygon is a simple polygon,8
+7090,22317,3,yemen,Osmosis_Highway_Features,2023-01-28 21:21:28+00:00,node on ways,Lone highway or barrier node,8
+5070,22293,50705,yemen,Sax,2023-01-28 21:21:28+00:00,invalid character,Unexpected punctuation in name,8
+9004,22293,9004001,yemen,Sax,2023-01-28 21:21:28+00:00,highway,abbreviated street name,8
+2030,22295,2,yemen,Osmosis_Roundabout_Level,2023-01-28 21:21:28+00:00,oneway,Missing oneway,7
+1070,22301,11,yemen,Osmosis_Highway_VS_Building,2023-01-28 21:21:28+00:00,objects overlap,Waterway overlaps,7
+1200,22293,12001,yemen,Sax,2023-01-28 21:21:28+00:00,1-member relation,1-member relation,7
+4110,22293,41108,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect layer,Long Waterway/water underground and no tunnel,6
+9004,22293,9004008,yemen,Sax,2023-01-28 21:21:28+00:00,highway,wrong highway tag on a node,5
+1070,22301,7,yemen,Osmosis_Highway_VS_Building,2023-01-28 21:21:28+00:00,objects overlap,Power object and highway too close,5
+9003,22293,9003008,yemen,Sax,2023-01-28 21:21:28+00:00,geometry,{{0.key}}={{0.value}} on a way. Should be used in a relation,5
+3230,22293,32302,yemen,Sax,2023-01-28 21:21:28+00:00,recycling container,Suspicious name for a container,5
+3170,22293,31700,yemen,Sax,2023-01-28 21:21:28+00:00,relation role,Inadequate role,5
+1070,22301,6,yemen,Osmosis_Highway_VS_Building,2023-01-28 21:21:28+00:00,objects overlap,Power object intersecting building,4
+1250,22328,1,yemen,Osmosis_Highway_Bad_Intersection,2023-01-28 21:21:28+00:00,objects intersection,Intersection of unrelated highway and power objects,4
+9003,22293,9003007,yemen,Sax,2023-01-28 21:21:28+00:00,geometry,{{0.key}} on a way. Should be used on a node.,4
+1220,22324,1,yemen,Osmosis_Waterway,2023-01-28 21:21:28+00:00,waterway,River bank without river,4
+9002,22293,9002014,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,questionable key (ending with a number),4
+3100,438595,1,yemen,Osmosis_Polygon_Small,2023-01-28 21:21:28+00:00,small poly,Natural area very small,4
+3091,22293,3092,yemen,Sax,2023-01-28 21:21:28+00:00,numeric value,Suspicious numerical value,4
+9006,22293,9006010,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,unusual value of {{0.key}},3
+3040,22293,30404,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect tag,Uncommon access value,3
+4110,22293,41106,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect layer,Long Highway above ground and no bridge,3
+3220,22293,32201,yemen,Sax,2023-01-28 21:21:28+00:00,access,Overly permissive access,3
+9006,22293,9006026,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,"unusual value of {0.key}: kilometers is default; only positive values; point is decimal separator; if units, put space then unit",3
+7040,22303,5,yemen,Osmosis_Powerline,2023-01-28 21:21:28+00:00,power lines,Missing power tower or pole,3
+5030,22293,705,yemen,Sax,2023-01-28 21:21:28+00:00,two names,The name tag contains two names,3
+3010,22295,1,yemen,Osmosis_Roundabout_Level,2023-01-28 21:21:28+00:00,highway roundabout,Wrong highway on roundabout,3
+1170,22293,11703,yemen,Sax,2023-01-28 21:21:28+00:00,multipolygon,Missing outer role for multipolygon,2
+0,22299,5,yemen,Osmosis_Building_Overlaps,2023-01-28 21:21:28+00:00,overlapping building,Large building intersection cluster,2
+3060,22293,30601,yemen,Sax,2023-01-28 21:21:28+00:00,similar values,Similar values,2
+3210,22326,2,yemen,Osmosis_Highway_Noexit,2023-01-28 21:21:28+00:00,noexit,Noexit on way with multiple exits,2
+3160,22293,31604,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""",Conflict between lanes number,2
+1150,22309,2,yemen,Osmosis_Polygon_Overlaps,2023-01-28 21:21:28+00:00,surface intersection,Area intersection `natural`,2
+3250,22293,32501,yemen,Sax,2023-01-28 21:21:28+00:00,opening hours,Invalid Opening Hours,2
+9003,22293,9003012,yemen,Sax,2023-01-28 21:21:28+00:00,geometry,{{0.key}} on a relation,2
+3090,22293,3090,yemen,Sax,2023-01-28 21:21:28+00:00,date,Bad date format,2
+5010,22293,902,yemen,Sax,2023-01-28 21:21:28+00:00,orthograph,Initial stuck to the name,2
+0,22299,3,yemen,Osmosis_Building_Overlaps,2023-01-28 21:21:28+00:00,overlapping building,Building too small,1
+3031,22293,30313,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,Use human Wikipedia page title,1
+1170,22311,4,yemen,Osmosis_Relation_Multipolygon,2023-01-28 21:21:28+00:00,multipolygon,"Should be polygon, part of multipolygon or not having area tag",1
+2060,22305,7,yemen,Osmosis_Relation_AssociatedStreet,2023-01-28 21:21:28+00:00,street numbers,Many street names,1
+1170,22311,2,yemen,Osmosis_Relation_Multipolygon,2023-01-28 21:21:28+00:00,multipolygon,Inconsistent multipolygon nature with members nature,1
+9006,22293,9006011,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,"{{0.key}} must be a numeric value, in meters and without units",1
+1210,22319,2,yemen,Osmosis_Highway_DeadEnd,2023-01-28 21:21:28+00:00,not-connected highway/cycleway,Unconnected highway,1
+1070,22301,10,yemen,Osmosis_Highway_VS_Building,2023-01-28 21:21:28+00:00,objects overlap,Waterway intersecting waterway,1
+3031,22293,30317,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,Same wikipedia topic on other language,1
+3091,22293,30914,yemen,Sax,2023-01-28 21:21:28+00:00,numeric value,Bad colour name,1
+2080,22293,20803,yemen,Sax,2023-01-28 21:21:28+00:00,highway,Tag highway missing for tracktype or lanes,1
+9006,22293,9006009,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,{{0.key}} must be a positive integer number,1
+1210,22319,5,yemen,Osmosis_Highway_DeadEnd,2023-01-28 21:21:28+00:00,not-connected highway/cycleway,Unconnected drive-through,1
+9011,22293,9011006,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,{{0.key}} tag should not have URL-encoded values like ''%27'',1
+3031,22293,30312,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,Missing Wikipedia language before article title,1
+3092,22293,3097,yemen,Sax,2023-01-28 21:21:28+00:00,phone number,Different value of tag contact:* and *,1
+4110,22293,41102,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect layer,Natural feature underground,1
+9002,22293,9002017,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,The key {{1.key}} has an uncommon value.,1
+9011,22293,9011012,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,"wikidata tag must be in Qnnnn format, where n is a digit",1
+5010,22293,50109001,yemen,Sax,2023-01-28 21:21:28+00:00,orthograph,Arabic letter detected in Farsi name,1
+3031,427979,1,yemen,Wikidata,2023-01-26 04:00:40+00:00,wikipedia,Incorrect value for Wikidata-Tag,1
+9002,22293,9002006,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,{{0.key}}={{0.value}} is unspecific. Instead use the key fixme with the information what exactly should be fixed in the value of fixme.,1
+9011,22293,9011010,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,wikipedia page title should have spaces instead of underscores (''_''→'' ''),1
+9011,22293,9011007,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,wikipedia title should not start with a space after language code,1
+1220,22293,12200,yemen,Sax,2023-01-28 21:21:28+00:00,waterway,Closed waterway,1
+3180,22322,4,yemen,Osmosis_Relation_Restriction,2023-01-28 21:21:28+00:00,relation type=restriction,"Restriction relation, bad oneway direction on ""from"" or ""to"" member",1
+1170,22293,11701,yemen,Sax,2023-01-28 21:21:28+00:00,multipolygon,Inadequate role for multipolygon,1
+4130,29360,1,yemen,Osmosis_Wikipedia,2023-01-28 21:21:28+00:00,duplicate wikipedia,Duplicate wikipedia tag,1
+3360,22293,33601,yemen,Sax,2023-01-28 21:21:28+00:00,sideway,Conflicting tags for sides of the way,1
+4110,22293,41101,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect layer,Landuse feature not on ground,1
+3032,22293,30327,yemen,Sax,2023-01-28 21:21:28+00:00,multiple tags,Waterway with level,1
+3050,22293,30501,yemen,Sax,2023-01-28 21:21:28+00:00,bad tag key,Bad key suffix,1
+3050,22293,3050,yemen,Sax,2023-01-28 21:21:28+00:00,bad tag key,Bad key,1
+9011,22293,9011001,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,"wikipedia tag has no language given, use ''wikipedia''=''language:page title''",1
+3030,22293,467520078,yemen,Sax,2023-01-28 21:21:28+00:00,tagwatch cleaner,value,1
+9004,22293,9004011,yemen,Sax,2023-01-28 21:21:28+00:00,highway,suspicious tag combination,1
+3200,22293,32003,yemen,Sax,2023-01-28 21:21:28+00:00,area,Redundant area negation,1
+1221,22329,1,yemen,Osmosis_Water,2023-01-28 21:21:28+00:00,far from water,Object must be close to coast or water,1
+1210,22319,3,yemen,Osmosis_Highway_DeadEnd,2023-01-28 21:21:28+00:00,not-connected highway/cycleway,One way inaccessible or missing parking or parking entrance,1
+7011,22318,2,yemen,Osmosis_Building_Shapes,2023-01-28 21:21:28+00:00,building shape,Special building (large),1
+3130,22293,31302,yemen,Sax,2023-01-28 21:21:28+00:00,brand in name,Operator can be completed with operator:wikidata,1
+1170,22311,3,yemen,Osmosis_Relation_Multipolygon,2023-01-28 21:21:28+00:00,multipolygon,Inconsistent multipolygon member nature,1
+9006,22293,9006004,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,{{0.key}} should have numbers only with optional .5 increments,1
+4110,22293,41105,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect layer,Highway above ground and no bridge,1
+3160,22293,316012,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""",Indicated turn lane together with `none`,0
+2120,22293,21202,yemen,Sax,2023-01-28 21:21:28+00:00,indoor,Indoor or building:part tag missing,0
+9015,22293,9015040,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"Tagging for resetting switch is deprecated, change railway:switch=* to proper value",0
+9019,22293,9019005,yemen,Sax,2023-01-28 21:21:28+00:00,specific France,validation rules Fantoir in France,0
+9014,22293,9014007,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,The network should be on the transport lines and not on the stops,0
+3030,22293,259473529,yemen,Sax,2023-01-28 21:21:28+00:00,tagwatch cleaner,typo-tag,0
+1240,22293,12401,yemen,Sax,2023-01-28 21:21:28+00:00,one-node way,Way with one node,0
+3160,22293,316010,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""","Pipe characters should not be used in destination tag, only in destination:lanes",0
+9019,22293,9019002,yemen,Sax,2023-01-28 21:21:28+00:00,specific France,validation rules nat_ref in France,0
+1280,412771,1,yemen,Osmosis_Relation_Enforcement,2023-01-28 21:21:28+00:00,enforcement,Disconnected speed camera,0
+7040,22303,3,yemen,Osmosis_Powerline,2023-01-28 21:21:28+00:00,power lines,Connection between different voltages,0
+5010,22293,905,yemen,Sax,2023-01-28 21:21:28+00:00,orthograph,Abbreviation of number should be in lowercase,0
+2080,27747,20804,yemen,Osmosis_Highway_Without_Ref,2023-01-28 21:21:28+00:00,highway,"Motorway without ref, nat_ref, int_ref or noref tag",0
+3031,427979,8,yemen,Wikidata,2023-01-26 04:00:40+00:00,wikipedia,Unpermitted link to an instance of living organism on Wikidata,0
+9011,22293,9011005,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,"wikipedia ''cz'' language is invalid, use ''cs'' instead",0
+3350,22293,33503,yemen,Sax,2023-01-28 21:21:28+00:00,conditional restriction,Expired conditional,0
+5010,22293,50101,yemen,Sax,2023-01-28 21:21:28+00:00,orthograph,Name with only numbers,0
+3210,22326,1,yemen,Osmosis_Highway_Noexit,2023-01-28 21:21:28+00:00,noexit,Noexit on node with exit,0
+1170,22311,1,yemen,Osmosis_Relation_Multipolygon,2023-01-28 21:21:28+00:00,multipolygon,Double inner polygon,0
+6010,420370,111,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=11,0
+2090,26871,4,yemen,Osmosis_Highway_Traffic_Signals,2023-01-28 21:21:28+00:00,highway crossing,Possible missing direction tag on stop or a give way,0
+2060,22305,6,yemen,Osmosis_Relation_AssociatedStreet,2023-01-28 21:21:28+00:00,street numbers,Number twice in the street,0
+3040,22293,30401,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect tag,{{0.key}}={{0.value}} is invalid. Should look like 12345ABC,0
+9006,22293,9006027,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,Definition of {{0.key}}={{0.value}} is unclear,0
+3161,22293,31618,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,parking:condition:[side] should be mapped on separately mapped parking area,0
+3032,22293,30320,yemen,Sax,2023-01-28 21:21:28+00:00,multiple tags,Watch multiple tags,0
+3031,22293,30316,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,Duplicate wikipedia tag as suffix and prefix,0
+2090,26871,2,yemen,Osmosis_Highway_Traffic_Signals,2023-01-28 21:21:28+00:00,highway crossing,Possible missing highway=traffic_signals nearby,0
+7120,22320,5,yemen,Osmosis_Boundary_Relation,2023-01-28 21:21:28+00:00,relation type=boundary,Different population tag between relation and admin_centre,0
+9004,22293,9004012,yemen,Sax,2023-01-28 21:21:28+00:00,highway,questionable value (ending with a number),0
+9006,22293,9006005,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,"maxwidth: meters is default; period is separator; if units, put space then unit",0
+2060,22305,2,yemen,Osmosis_Relation_AssociatedStreet,2023-01-28 21:21:28+00:00,street numbers,No street role,0
+1290,33715,1,yemen,Osmosis_Way_Approximate,2023-01-28 21:21:28+00:00,related objects,Camp pitches outside a camp site,0
+9015,22293,9015022,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"track tagged with 'bridge' in name, consider using bridge:name instead and put the track name into name",0
+9006,22293,9006021,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,Unnecessary amount of decimal places,0
+3161,22293,31623,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,Duplicated values,0
+9006,22293,9006006,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,"maxweight: tonne is default; period is separator; if units, put space then unit",0
+1230,22325,4,yemen,Osmosis_Duplicated_Geotag,2023-01-28 21:21:28+00:00,duplicate geometry,Duplicated node geometry but different tags,0
+2140,22293,21403,yemen,Sax,2023-01-28 21:21:28+00:00,public_transport route,Missing operator tag on a public_transport relation,0
+9006,22293,9006013,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,voltage should be in volts with no units/delimiter/spaces,0
+9011,22293,9011009,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,wikipedia page title should have first letter capitalized,0
+9015,22293,9015036,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"signals should be tagged with ref, not railway:ref",0
+3161,22293,31621,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,Bad parking:[side],0
+9015,22293,9015039,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"{{0.value}} identification should be tagged as ref, not as name",0
+9004,22293,9004014,yemen,Sax,2023-01-28 21:21:28+00:00,highway,unusual value of {{0.key}},0
+9011,22293,9011011,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,"wikipedia language seems to be duplicated, e.g. en:en:Foo",0
+9002,22293,9002018,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,misspelled value,0
+3161,22293,31627,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,Bad parking:[side]:orientation value,0
+3161,22293,31617,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,parking:condition:[side] not applicable,0
+3160,22293,316014,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""",Lane changing value only_* need an aside lane on the good side,0
+9015,22293,9015045,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"track numbers inside a station should be railway:track_ref, not ref",0
+4061,22293,40612,yemen,Sax,2023-01-28 21:21:28+00:00,fixme review,"Does this station still sell SP95, or has it been replaced by the SP95-E10?",0
+4110,22293,41109,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect layer,Waterway/water above ground and no bridge,0
+1260,24092,4,yemen,Osmosis_Relation_Public_Transport,2023-01-28 21:21:28+00:00,public transport,Public transport relation route not in route_master relation,0
+2010,22297,2,yemen,Osmosis_Roundabout,2023-01-28 21:21:28+00:00,junction=roundabout,Roundabout without right of way,0
+9014,22293,9014022,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,The duration is invalid (try a number of minutes),0
+3161,22293,31611,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,Bad parking:lane:[side],0
+9014,22293,9014023,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,Missing interval tag to specify the main interval,0
+1190,33715,10,yemen,Osmosis_Way_Approximate,2023-01-28 21:21:28+00:00,approximate way,Approximate geometry of railway,0
+4070,22293,4070,yemen,Sax,2023-01-28 21:21:28+00:00,construction,Finished construction,0
+9019,22293,9019003,yemen,Sax,2023-01-28 21:21:28+00:00,specific France,missing tag,0
+3160,22293,31608,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""","Conflict between lanes number of same suffix ("""", forward, backward or both_ways)",0
+1170,22293,11702,yemen,Sax,2023-01-28 21:21:28+00:00,multipolygon,Inadequate member for multipolygon,0
+1260,24092,1,yemen,Osmosis_Relation_Public_Transport,2023-01-28 21:21:28+00:00,public transport,The track of this route contains gaps,0
+3100,438595,4,yemen,Osmosis_Polygon_Small,2023-01-28 21:21:28+00:00,small poly,Landuse very small,0
+3020,22293,706,yemen,Sax,2023-01-28 21:21:28+00:00,bad source tag,Illegal or incomplete source tag,0
+9007,22293,9007002,yemen,Sax,2023-01-28 21:21:28+00:00,relation,relation without type,0
+3350,22293,33504,yemen,Sax,2023-01-28 21:21:28+00:00,conditional restriction,Invalid date/time span,0
+3040,22293,30402,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect tag,missing tag,0
+1260,24092,10,yemen,Osmosis_Relation_Public_Transport,2023-01-28 21:21:28+00:00,public transport,Stop position without platform nor bus stop,0
+1260,24092,5,yemen,Osmosis_Relation_Public_Transport,2023-01-28 21:21:28+00:00,public transport,"network, operator, ref, colour tag should be the same on route and route_master relations",0
+3150,22315,1,yemen,Osmosis_Tag_Typo,2023-01-28 21:21:28+00:00,typo in tag,Typo in tag,0
+6010,420370,112,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=12,0
+9014,22293,9014024,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,Missing opening_hours tag,0
+9006,22293,9006017,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,"unusual value of {{0.key}}: use . instead of , as decimal separator",0
+9019,22293,9019001,yemen,Sax,2023-01-28 21:21:28+00:00,specific France,validation rules highway milestone,0
+9015,22293,9015015,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,tracks=1 not necessary if detail=track is tagged.,0
+2120,22293,21201,yemen,Sax,2023-01-28 21:21:28+00:00,indoor,Level or repeat_on tag missing,0
+9001,22293,9001005,yemen,Sax,2023-01-28 21:21:28+00:00,combinations,Use transition only as value of placement,0
+1070,22301,3,yemen,Osmosis_Highway_VS_Building,2023-01-28 21:21:28+00:00,objects overlap,Tree and highway too close,0
+9015,22293,9015016,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"If tracks are tagged with service=*, they should be mapped as one way per track.",0
+9014,22293,9014025,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,"Check the operator tag : this operator does not exist, it may be a typo",0
+2060,414116,101,yemen,Osmosis_Addr_Interpolation,2023-01-28 21:21:28+00:00,street numbers,"""addr:housenumber"" in multiple interpolations",0
+2060,414116,16,yemen,Osmosis_Addr_Interpolation,2023-01-28 21:21:28+00:00,street numbers,Interpolation on nodes of multiple street names,0
+9006,22293,9006025,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,unnecessary tag,0
+3160,22293,316011,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""",Merge lane and other turn lane in a single lane,0
+3161,22293,31616,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,parking:condition:[side] without parking:lane:[side] value,0
+3240,30235,1,yemen,Osmosis_Relation_Route_Access,2023-01-28 21:21:28+00:00,route access mismatch,Way access mismatch relation route=bicycle,0
+3190,22293,31901,yemen,Sax,2023-01-28 21:21:28+00:00,postcode,Invalid postcode,0
+3160,22293,316013,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""",Unknown change lanes value,0
+7090,22317,1,yemen,Osmosis_Highway_Features,2023-01-28 21:21:28+00:00,node on ways,Missing way on level crossing,0
+1070,22301,9,yemen,Osmosis_Highway_VS_Building,2023-01-28 21:21:28+00:00,objects overlap,Highway overlaps,0
+9006,22293,9006003,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,{{0.key}} should be an integer value between -5 and 5,0
+3031,427979,7,yemen,Wikidata,2023-01-26 04:00:40+00:00,wikipedia,The OSM object is linked to an unpermitted Wikidata item,0
+9015,22293,9015009,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"track names or refs should not include the word 'track', tag those numbers as railway:track_ref",0
+2060,22293,14,yemen,Sax,2023-01-28 21:21:28+00:00,street numbers,Invalid tag on interpolation way,0
+9015,22293,9015019,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"radio=* is deprecated, change to proper railway:radio value",0
+3040,22293,30403,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect tag,missing tag,0
+3010,22295,4,yemen,Osmosis_Roundabout_Level,2023-01-28 21:21:28+00:00,highway roundabout,Roundabout crossing,0
+5080,22293,50801,yemen,Sax,2023-01-28 21:21:28+00:00,similar name,"Hamlet or Locality name suffix Nord, Sud, Est, Ouest, Centre should be removed from Cadastre name. Place should be integrated only once.",0
+1170,420370,5,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,multipolygon,Open relation type=multipolygon,0
+3250,22293,32502,yemen,Sax,2023-01-28 21:21:28+00:00,opening hours,Invalid Conditional Interval,0
+6010,420370,109,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=9,0
+4010,22293,40101,yemen,Sax,2023-01-28 21:21:28+00:00,disused,psv is preferred to service=psv,0
+9006,22293,9006022,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,Airport tagging,0
+3032,22293,30328,yemen,Sax,2023-01-28 21:21:28+00:00,multiple tags,highway=cycleway with cycleway=track,0
+1100,22293,1100,yemen,Sax,2023-01-28 21:21:28+00:00,unclosed area,Unclosed area,0
+9015,22293,9015032,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,railway=flat_crossing is deprecated,0
+9015,22293,9015005,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,usage=freight is deprecated,0
+9014,22293,9014028,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,"The line variant does not belong to any line, add it to the route_master relation",0
+3180,22293,31801,yemen,Sax,2023-01-28 21:21:28+00:00,relation type=restriction,"Useless non u-turn restriction, it's forbidden by local law",0
+9006,22293,9006028,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,unusual value of {{0.key}}: set unit e.g. minutes or hours; only positive values; point is decimal separator; space between value and unit,0
+9015,22293,9015038,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,signal names should be prefixed with an operator or country prefix,0
+4110,22293,41100,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect layer,Long Waterway/water above ground and no bridge,0
+5030,22293,50301,yemen,Sax,2023-01-28 21:21:28+00:00,two names,Conflicting names,0
+1230,22325,2,yemen,Osmosis_Duplicated_Geotag,2023-01-28 21:21:28+00:00,duplicate geometry,Duplicated way geometry but different tags,0
+9002,22293,9002021,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,"Unusual key {{0.key}}, maybe level or building:levels is meant",0
+9015,22293,9015031,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,A sign cannot have different states.,0
+9014,22293,9014009,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,"Missing transportation mode, add a tag route = bus/coach/tram/etc",0
+2080,22293,20802,yemen,Sax,2023-01-28 21:21:28+00:00,highway,Missing tag ref for emergency access point,0
+4010,22293,40103,yemen,Sax,2023-01-28 21:21:28+00:00,disused,deprecated tagging,0
+9006,22293,9006001,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,numerical key,0
+9001,22293,9001003,yemen,Sax,2023-01-28 21:21:28+00:00,combinations,{{0.key}} on a relation without {{1.key}}={{1.value}},0
+2060,22293,20601,yemen,Sax,2023-01-28 21:21:28+00:00,street numbers,Misusing addr:interpolation in combination with other tags,0
+9100,22293,91002,yemen,Sax,2023-01-28 21:21:28+00:00,power transformer,On Power Transformers use voltage:primary=* and voltage:secondary=* in place of voltage,0
+3031,22293,30310,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,Not a Wikipedia URL,0
+3161,22293,31614,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,Too many parking:lane:[side],0
+9006,22293,9006016,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,unusual incline; use percentages/degrees or up/down,0
+2090,26871,1,yemen,Osmosis_Highway_Traffic_Signals,2023-01-28 21:21:28+00:00,highway crossing,Possible crossing=traffic_signals,0
+6010,420370,100,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=0,0
+9015,22293,9015004,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,Key traffic_mode is deprecated,0
+3160,22293,31607,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""",Bad turn lanes order,0
+3240,30235,3,yemen,Osmosis_Relation_Route_Access,2023-01-28 21:21:28+00:00,route access mismatch,Way access mismatch relation route=hiking,0
+1160,434212,2,yemen,Osmosis_Relation_Cyclic,2023-01-28 21:21:28+00:00,big relation,Cyclic relation,0
+3031,427979,6,yemen,Wikidata,2023-01-26 04:00:40+00:00,wikipedia,The secondary Wikidata tag and the linked Wikidata item do not match,0
+6060,22314,3,yemen,Osmosis_Boundary_Administrative,2023-01-28 21:21:28+00:00,erroneous boundary,Lone boundary fragment,0
+1140,22310,1,yemen,Osmosis_Useless,2023-01-28 21:21:28+00:00,missing tag or role,Missing tag or role on node,0
+2010,22297,1,yemen,Osmosis_Roundabout,2023-01-28 21:21:28+00:00,junction=roundabout,Missing `junction=roundabout`,0
+3030,22293,1398494170,yemen,Sax,2023-01-28 21:21:28+00:00,tagwatch cleaner,name,0
+3031,22293,30311,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,Wikipedia URL instead of article title,0
+2080,22293,20800,yemen,Sax,2023-01-28 21:21:28+00:00,highway,Tag highway missing on junction,0
+9014,22293,9014008,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,The operator should be on the transport lines and not on the stops,0
+6020,22293,504,yemen,Sax,2023-01-28 21:21:28+00:00,duplicated way,Duplicated way in relation,0
+9015,22293,9015002,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"Station mapped as a way, but should be mapped as a node",0
+9006,22293,9006030,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,suspicious tag combination,0
+2110,22293,21102,yemen,Sax,2023-01-28 21:21:28+00:00,missing object kind,Missing relation type,0
+1040,22300,2,yemen,Osmosis_Polygon,2023-01-28 21:21:28+00:00,invalid polygon,Invalid multipolygon,0
+4020,22293,40201,yemen,Sax,2023-01-28 21:21:28+00:00,on junction=roundabout,Roundabout as area,0
+9015,22293,9015020,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"track tagged with 'tunnel' in name, consider using tunnel:name instead and put the track name into name",0
+1180,22316,1,yemen,Osmosis_Cycleway_track,2023-01-28 21:21:28+00:00,double cycleway,"Duplicated cycle tracks, `highway=*`+`cycleway=track` and `highway=cycleway`",0
+7011,22318,1,yemen,Osmosis_Building_Shapes,2023-01-28 21:21:28+00:00,building shape,Special building (round),0
+6010,420370,106,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=6,0
+3050,22293,30502,yemen,Sax,2023-01-28 21:21:28+00:00,bad tag key,Bad key,0
+3031,427979,2,yemen,Wikidata,2023-01-26 04:00:40+00:00,wikipedia,Wikidata item does not exist,0
+9006,22293,9006012,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,unusual maxspeed format,0
+3161,22293,31626,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,Property of parking should be mapped on separately mapped parking area,0
+2130,33716,2,yemen,Osmosis_HighwayAreaAccess,2023-01-28 21:21:28+00:00,access,Inconsistent Access,0
+4080,22304,2,yemen,Osmosis_Double_Tagging,2023-01-28 21:21:28+00:00,duplicate object,Object tagged twice as way and relation,0
+2060,22305,5,yemen,Osmosis_Relation_AssociatedStreet,2023-01-28 21:21:28+00:00,street numbers,Member without addr:housenumber nor addr:housename,0
+3230,22293,32301,yemen,Sax,2023-01-28 21:21:28+00:00,recycling container,"Probably only for bottles, not any type of glass",0
+2060,22293,15,yemen,Sax,2023-01-28 21:21:28+00:00,street numbers,Invalid addr:interpolation or addr:inclusion value,0
+1010,22293,103,yemen,Sax,2023-01-28 21:21:28+00:00,duplicated node,Duplicated nodes,0
+2130,33716,1,yemen,Osmosis_HighwayAreaAccess,2023-01-28 21:21:28+00:00,access,Inconsistent Access,0
+2060,414116,103,yemen,Osmosis_Addr_Interpolation,2023-01-28 21:21:28+00:00,street numbers,"Interpolation ends should have tag ""addr:housenumber""",0
+2140,22293,21401,yemen,Sax,2023-01-28 21:21:28+00:00,public_transport route,Missing public_transport:version tag on a public_transport route relation,0
+3100,438595,2,yemen,Osmosis_Polygon_Small,2023-01-28 21:21:28+00:00,small poly,Landuse very small,0
+9014,22293,9014021,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,The interval is invalid (try a number of minutes),0
+2140,22293,21405,yemen,Sax,2023-01-28 21:21:28+00:00,public_transport route,Missing from/to tag on a public_transport route relation,0
+3240,30235,2,yemen,Osmosis_Relation_Route_Access,2023-01-28 21:21:28+00:00,route access mismatch,Way access mismatch relation route=foot,0
+3030,22293,2006017393,yemen,Sax,2023-01-28 21:21:28+00:00,tagwatch cleaner,type-tag,0
+9006,22293,9006024,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,unusual value of {{0.key}}: use abbreviation for unit and space between value and unit,0
+9014,22293,9014006,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,Check if the note can be deleted,0
+3180,22322,2,yemen,Osmosis_Relation_Restriction,2023-01-28 21:21:28+00:00,relation type=restriction,"Restriction relation, bad member type",0
+6060,22298,1,yemen,Osmosis_Boundary_Hole,2023-01-28 21:21:28+00:00,erroneous boundary,Hole between administrative boundaries of admin_level 8,0
+2080,22293,20801,yemen,Sax,2023-01-28 21:21:28+00:00,highway,Tag highway missing on oneway,0
+9014,22293,9014020,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,The color of the public transport line should be in a colour tag,0
+9014,22293,9014002,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,Is it a bus stop or a bus station?,0
+3031,427979,9,yemen,Wikidata,2023-01-26 04:00:40+00:00,wikipedia,The OSM object does not match the Wikidata item,0
+9015,22293,9015011,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,power:type=overhead is deprecated,0
+3160,22293,31606,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""",Unknown turn lanes value,0
+2080,22293,20805,yemen,Sax,2023-01-28 21:21:28+00:00,highway,footway=sidewalk without highway=footway|construction,0
+9015,22293,9015017,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,Crossings and level crossings should be mapped as nodes,0
+3091,22293,3094,yemen,Sax,2023-01-28 21:21:28+00:00,numeric value,Unknown unit,0
+3350,22293,33502,yemen,Sax,2023-01-28 21:21:28+00:00,conditional restriction,Improve style of conditional,0
+7120,22320,1,yemen,Osmosis_Boundary_Relation,2023-01-28 21:21:28+00:00,relation type=boundary,Missing `admin_centre` role,0
+7040,22303,7,yemen,Osmosis_Powerline,2023-01-28 21:21:28+00:00,power lines,Unmatched voltage of line on substation,0
+9014,22293,9014019,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,A bus stop is supposed to be a node,0
+9005,22293,9005002,yemen,Sax,2023-01-28 21:21:28+00:00,multiple,empty value in semicolon-separated ''{{0.key}}'',0
+3030,22293,1100242374,yemen,Sax,2023-01-28 21:21:28+00:00,tagwatch cleaner,ref,0
+3030,22293,737787355,yemen,Sax,2023-01-28 21:21:28+00:00,tagwatch cleaner,shop,0
+4030,22293,40302,yemen,Sax,2023-01-28 21:21:28+00:00,incompatible tags,`{{0.key}}` together with `{{1.key}}` and equal values,0
+9010,22293,9010002,yemen,Sax,2023-01-28 21:21:28+00:00,unnecessary,{{0.key}}={{0.value}} makes no sense,0
+5010,22293,704,yemen,Sax,2023-01-28 21:21:28+00:00,orthograph,Encoding problem,0
+1260,24092,7,yemen,Osmosis_Relation_Public_Transport,2023-01-28 21:21:28+00:00,public transport,The stop_position is not part of a way,0
+9002,22293,9002016,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,{{0.key}}={{0.value}} is not recommended. Use the Reverse Ways function from the Tools menu.,0
+3161,22293,31628,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,Bad parking:[side]:restriction value,0
+4080,22304,3,yemen,Osmosis_Double_Tagging,2023-01-28 21:21:28+00:00,duplicate object,Object tagged twice as node and relation,0
+5010,22293,703,yemen,Sax,2023-01-28 21:21:28+00:00,orthograph,Word not found in dictionary,0
+9015,22293,9015007,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"track numbers inside a station should be railway:track_ref, not name",0
+3180,22322,5,yemen,Osmosis_Relation_Restriction,2023-01-28 21:21:28+00:00,relation type=restriction,Restriction doesn't match topology,0
+1290,416629,1,yemen,Osmosis_Camp_Pitch_Out_Of_Camp_Site,2023-01-28 21:21:28+00:00,related objects,Camp pitches outside a camp site,0
+9002,22293,9002012,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,uncommon short key,0
+3161,22293,31625,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,parking:[side]:* not applicable,0
+9015,22293,9015023,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"track tagged with 'bridge' in wikipedia, consider using bridge:wikipedia instead and put track wikipedia entry into wikipedia",0
+1260,24092,2,yemen,Osmosis_Relation_Public_Transport,2023-01-28 21:21:28+00:00,public transport,The stop or platform is too far from the track of this route,0
+3091,22293,30911,yemen,Sax,2023-01-28 21:21:28+00:00,numeric value,Colour code should start with '#' followed by 3 or 6 digits,0
+3161,22293,31622,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,parking:[side]:* without parking:[side] value,0
+3161,22327,1,yemen,Osmosis_Parking_highway,2023-01-28 21:21:28+00:00,parking lane,Missing access way to parking,0
+1260,24092,12,yemen,Osmosis_Relation_Public_Transport,2023-01-28 21:21:28+00:00,public transport,The platform is not on the right side of the road,0
+3032,22293,30323,yemen,Sax,2023-01-28 21:21:28+00:00,multiple tags,Watch multiple tags,0
+3032,22293,303241,yemen,Sax,2023-01-28 21:21:28+00:00,multiple tags,Discordant maxspeed and source:maxspeed or maxspeed:type,0
+2160,22293,21600,yemen,Sax,2023-01-28 21:21:28+00:00,railways,Missing tag gauge on rail,0
+9015,22293,9015025,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"maxspeed=signals is deprecated, tag the highest possible speed instead",0
+1070,22301,2,yemen,Osmosis_Highway_VS_Building,2023-01-28 21:21:28+00:00,objects overlap,Tree intersecting building,0
+3040,22293,30405,yemen,Sax,2023-01-28 21:21:28+00:00,incorrect tag,Transport mode in access value,0
+9003,22293,9003006,yemen,Sax,2023-01-28 21:21:28+00:00,geometry,{{0.key}} on a node,0
+9003,22293,9003002,yemen,Sax,2023-01-28 21:21:28+00:00,geometry,{{0.key}}={{0.value}} on a node. Should be used on a way or relation.,0
+9015,22293,9015008,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"platforms should have the numbers in ref, not railway:track_ref",0
+9007,22293,9007001,yemen,Sax,2023-01-28 21:21:28+00:00,relation,missing tag,0
+9006,22293,9006015,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,unusual train track gauge; use mm with no separator,0
+1140,22310,3,yemen,Osmosis_Useless,2023-01-28 21:21:28+00:00,missing tag or role,Missing tag or role on relation,0
+9015,22293,9015033,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,railway:signal:stop:description is deprecated and has been replaced by railway:signal:stop:caption,0
+3161,22293,31624,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,Bad value for parking:[side]=*,0
+9006,22293,9006023,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,negative {{0.key}} value,0
+3091,22293,30912,yemen,Sax,2023-01-28 21:21:28+00:00,numeric value,Invalid capacity value,0
+9009,22293,9009002,yemen,Sax,2023-01-28 21:21:28+00:00,territories,street name contains ss,0
+2030,22293,20301,yemen,Sax,2023-01-28 21:21:28+00:00,oneway,Opposite cycleway without oneway,0
+1260,24092,6,yemen,Osmosis_Relation_Public_Transport,2023-01-28 21:21:28+00:00,public transport,"The bus stop is part of a way, it should have public_transport=stop_position tag",0
+9004,22293,9004013,yemen,Sax,2023-01-28 21:21:28+00:00,highway,{{0.key}}={{0.value}} together with {{1.key}}={{1.value}},0
+9004,22293,9004010,yemen,Sax,2023-01-28 21:21:28+00:00,highway,{{0.key}}={{0.value}} on a node,0
+1150,22309,1,yemen,Osmosis_Polygon_Overlaps,2023-01-28 21:21:28+00:00,surface intersection,Area intersection `waterway`,0
+2060,414116,102,yemen,Osmosis_Addr_Interpolation,2023-01-28 21:21:28+00:00,street numbers,Interpolation intersection,0
+9011,22293,9011003,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,deprecated tagging,0
+3031,427979,10,yemen,Wikidata,2023-01-26 04:00:40+00:00,wikipedia,Linked Wikidata item is replaced by other item,0
+1210,22319,1,yemen,Osmosis_Highway_DeadEnd,2023-01-28 21:21:28+00:00,not-connected highway/cycleway,Unconnected cycleway,0
+3160,22293,31600,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""",Turn lanes merge_to_* need an aside lane on good side,0
+3160,22293,31609,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""","Bad access lanes value, should not be an integer but a restriction",0
+3031,427979,11,yemen,Wikidata,2023-01-26 04:00:40+00:00,wikipedia,"Linked Wikidata item is dissolved, abolished or demolished",0
+9003,22293,9003011,yemen,Sax,2023-01-28 21:21:28+00:00,geometry,{{1.key}}={{1.value}} on a closed way. Should be used on an unclosed way.,0
+2060,22305,3,yemen,Osmosis_Relation_AssociatedStreet,2023-01-28 21:21:28+00:00,street numbers,street role is not a highway,0
+1260,24092,3,yemen,Osmosis_Relation_Public_Transport,2023-01-28 21:21:28+00:00,public transport,Non route relation member in route_master relation,0
+6010,420370,108,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=8,0
+9011,22293,9011016,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,{{0.key}} value looks like a wikidata value,0
+1260,24092,8,yemen,Osmosis_Relation_Public_Transport,2023-01-28 21:21:28+00:00,public transport,"The platform is part of a way, it should have the role stop",0
+6010,420370,102,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=2,0
+7120,22320,4,yemen,Osmosis_Boundary_Relation,2023-01-28 21:21:28+00:00,relation type=boundary,Missing wikipedia tag,0
+6010,420370,104,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=4,0
+9003,22293,9003009,yemen,Sax,2023-01-28 21:21:28+00:00,geometry,Object at Position 0.00E 0.00N. There is nothing at this position except an already mapped weather buoy.,0
+2040,22293,707,yemen,Sax,2023-01-28 21:21:28+00:00,source,Missing source tag,0
+9011,22293,9011004,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,"wikipedia ''be-x-old'' language is obsolete, use ''be-tarask'' instead",0
+6060,22314,2,yemen,Osmosis_Boundary_Administrative,2023-01-28 21:21:28+00:00,erroneous boundary,Boundary intersection,0
+1260,24092,11,yemen,Osmosis_Relation_Public_Transport,2023-01-28 21:21:28+00:00,public transport,The stops may not be in the right order,0
+9002,22293,9002002,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,"''access=designated'' is meaningless, use more specific tags, e.g. ''bicycle=designated''",0
+2060,22305,8,yemen,Osmosis_Relation_AssociatedStreet,2023-01-28 21:21:28+00:00,street numbers,Many relations on one street,0
+1,28736,1,yemen,Osmosis_Building_3nodes,2023-01-28 21:21:28+00:00,split building,Merge building (triangle),0
+2030,22293,20302,yemen,Sax,2023-01-28 21:21:28+00:00,oneway,Opposite or opposite lane in the same way of the oneway,0
+4080,22304,1,yemen,Osmosis_Double_Tagging,2023-01-28 21:21:28+00:00,duplicate object,Object tagged twice as node and way,0
+3031,427979,5,yemen,Wikidata,2023-01-26 04:00:40+00:00,wikipedia,Characteristics of the OSM tags and linked Wikidata item do not match,0
+3030,22293,837055326,yemen,Sax,2023-01-28 21:21:28+00:00,tagwatch cleaner,tag,0
+9015,22293,9015030,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,signal specification given but node is not tagged as signal or equivalent type,0
+2060,22305,4,yemen,Osmosis_Relation_AssociatedStreet,2023-01-28 21:21:28+00:00,street numbers,Roleless member,0
+2060,22305,9,yemen,Osmosis_Relation_AssociatedStreet,2023-01-28 21:21:28+00:00,street numbers,House too far away from street,0
+9014,22293,9014027,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,Subway entrances should be mapped as nodes,0
+9002,22293,9002003,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,"''access=official'' does not specify the official mode of transportation, use ''bicycle=official'' for example",0
+9015,22293,9015043,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,interlocking relation with type other than railway,0
+1110,22306,2,yemen,Osmosis_Highway_Link,2023-01-28 21:21:28+00:00,bad *_link highway,Highway too long for a *_link,0
+9015,22293,9015012,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"power:type=overhead is deprecated, conflict between power:type=overhead and electrified=*",0
+6010,420370,1,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary,0
+6010,420370,113,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=13,0
+1300,22293,50,yemen,Sax,2023-01-28 21:21:28+00:00,indoor,This indoor feature should be a closed and valid polygon,0
+3160,22293,31605,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""",Invalid usage of *:lanes:(backward|both_ways) on oneway highway,0
+3160,22293,31603,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""",Conflict between usage of *:lanes or *:lanes:(forward|backward|both_ways),0
+9015,22293,9015041,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,controlled_area relations are deprecated,0
+6010,420370,107,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=7,0
+4010,22293,40105,yemen,Sax,2023-01-28 21:21:28+00:00,disused,misused tag in this country,0
+3030,22293,301849747,yemen,Sax,2023-01-28 21:21:28+00:00,tagwatch cleaner,deprecated,0
+4061,22293,40613,yemen,Sax,2023-01-28 21:21:28+00:00,fixme review,Unspecific value,0
+3220,22293,32200,yemen,Sax,2023-01-28 21:21:28+00:00,access,Overly permissive access,0
+9015,22293,9015024,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"lanes=* is used for highways, not railways",0
+1050,22294,1,yemen,Osmosis_Roundabout_Reverse,2023-01-28 21:21:28+00:00,reverse roundabout,Reverse roundabout,0
+2080,22293,20806,yemen,Sax,2023-01-28 21:21:28+00:00,highway,Missing tag carpool on area,0
+9015,22293,9015034,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"railway:signal:stop:description is deprecated, replace by appropiate railway:signal:stop:caption value",0
+3031,22293,30315,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,Invalid wikipedia suffix,0
+9006,22293,9006007,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,"distance: kilometers is default; period is separator; if units, put space then unit",0
+9011,22293,9011002,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,wikipedia tag has an unknown language prefix,0
+1300,22293,52,yemen,Sax,2023-01-28 21:21:28+00:00,indoor,This indoor shop should probably be inside a room,0
+9015,22293,9015014,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"priority on railway objects is deprecated, remove it",0
+6010,420370,105,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=5,0
+4010,22293,202004,yemen,Sax,2023-01-28 21:21:28+00:00,disused,This store was on an adapted schedule during the lockdown. Are these opening hours still in effect?,0
+9002,22293,9002004,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,{{0.key}}={{0.value}} is unspecific. Instead of ''{{0.value}}'' please give more information about what exactly should be fixed.,0
+9100,22293,91001,yemen,Sax,2023-01-28 21:21:28+00:00,power transformer,Power Transformers should always be on a node,0
+3091,22293,3093,yemen,Sax,2023-01-28 21:21:28+00:00,numeric value,Suspicious value,0
+9002,22293,9002023,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,{{0.key}} with a temporary URL which may be outdated very soon,0
+1110,22306,3,yemen,Osmosis_Highway_Link,2023-01-28 21:21:28+00:00,bad *_link highway,Bad *_link highway,0
+9015,22293,9015021,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"track tagged with 'tunnel' in wikipedia, consider using tunnel:wikipedia instead and put the track wikipedia entry into wikipedia",0
+3031,22293,30318,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,"This wikidata value matches a chain store, it should be in a brand:wikidata tag.",0
+3100,438595,3,yemen,Osmosis_Polygon_Small,2023-01-28 21:21:28+00:00,small poly,Small farm,0
+4010,22293,40104,yemen,Sax,2023-01-28 21:21:28+00:00,disused,deprecated tagging,0
+2060,414116,104,yemen,Osmosis_Addr_Interpolation,2023-01-28 21:21:28+00:00,street numbers,"Interpolation ends should have different tag ""addr:housenumber"" values",0
+4060,22293,4060,yemen,Sax,2023-01-28 21:21:28+00:00,fixme import,"OpenSeaMap import, very approximative position.",0
+2060,414116,17,yemen,Osmosis_Addr_Interpolation,2023-01-28 21:21:28+00:00,street numbers,"Interpolation on nodes of multiple ""associatedStreet"" relations",0
+9006,22293,9006014,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,unusual frequency specification,0
+9009,22293,9009003,yemen,Sax,2023-01-28 21:21:28+00:00,territories,street name contains ß,0
+9002,22293,9002005,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,"Wrong usage of {{0.key}} tag. Remove {{0.key}}={{0.value}}, because it is clear that the name is missing even without an additional tag.",0
+1230,22325,3,yemen,Osmosis_Duplicated_Geotag,2023-01-28 21:21:28+00:00,duplicate geometry,Duplicated node geometry and tags,0
+1260,24092,9,yemen,Osmosis_Relation_Public_Transport,2023-01-28 21:21:28+00:00,public transport,The stop is not part of a way,0
+9006,22293,9006029,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,imprecise value of {{0.key}}={{0.value}},0
+9015,22293,9015010,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"platform names or refs should not include the word 'track', write that as 'description', put the bare numbers in 'ref', separated by ';'",0
+9003,22293,9003004,yemen,Sax,2023-01-28 21:21:28+00:00,geometry,{{0.key}}={{0.value}} on a node. Should be used in a relation,0
+3200,22293,32001,yemen,Sax,2023-01-28 21:21:28+00:00,area,Redundant area tagging,0
+9015,22293,9015035,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,main and combined signal at the same place,0
+2090,26871,3,yemen,Osmosis_Highway_Traffic_Signals,2023-01-28 21:21:28+00:00,highway crossing,Possible missing traffic_signals:direction tag or crossing on traffic signals,0
+9015,22293,9015044,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,{{0.key}}={{0.value}} without name,0
+9015,22293,9015026,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,maxspeed should contain the value as it is shown on the line with mph as unit,0
+6010,420370,101,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=1,0
+9011,22293,9011008,yemen,Sax,2023-01-28 21:21:28+00:00,wikipedia,wikipedia title should not have ''wiki/'' prefix,0
+9009,22293,9009001,yemen,Sax,2023-01-28 21:21:28+00:00,territories,deprecated tagging,0
+3031,427979,4,yemen,Wikidata,2023-01-26 04:00:40+00:00,wikipedia,The distance between OSM object and linked Wikidata item is unusually large,0
+3030,22293,1258610297,yemen,Sax,2023-01-28 21:21:28+00:00,tagwatch cleaner,typo,0
+7012,22323,1,yemen,Osmosis_Highway_Tunnel_Bridge,2023-01-28 21:21:28+00:00,bridge to tag,Bridge structure missing,0
+3350,22293,33501,yemen,Sax,2023-01-28 21:21:28+00:00,conditional restriction,Bad conditional restriction,0
+4010,22293,4010,yemen,Sax,2023-01-28 21:21:28+00:00,disused,Deprecated tag,0
+1050,22293,1050,yemen,Sax,2023-01-28 21:21:28+00:00,reverse roundabout,Reverse roundabout,0
+9015,22293,9015013,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"power:type is deprecated, change to proper electrified value",0
+3161,22293,31619,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,Bad parking:condition:[side] value,0
+3091,22293,30913,yemen,Sax,2023-01-28 21:21:28+00:00,numeric value,Specific capacity is greater than total capacity,0
+7120,22320,2,yemen,Osmosis_Boundary_Relation,2023-01-28 21:21:28+00:00,relation type=boundary,Missing `name`,0
+2060,414116,100,yemen,Osmosis_Addr_Interpolation,2023-01-28 21:21:28+00:00,street numbers,"Interpolation on nodes without tag ""addr:housenumber""",0
+2140,22293,21412,yemen,Sax,2023-01-28 21:21:28+00:00,public_transport route,Missing legacy tag on a public transport stop,0
+9015,22293,9015001,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,Track tagged with usage=* AND service=* - remove one of these tags,0
+3180,22322,1,yemen,Osmosis_Relation_Restriction,2023-01-28 21:21:28+00:00,relation type=restriction,"Restriction relation, wrong number of members",0
+2140,22293,21402,yemen,Sax,2023-01-28 21:21:28+00:00,public_transport route,Missing network tag on a public_transport relation,0
+9001,22293,9001004,yemen,Sax,2023-01-28 21:21:28+00:00,combinations,incomplete usage of {{0.key}} on a way without {{1.key}},0
+2060,22305,18,yemen,Osmosis_Relation_AssociatedStreet,2023-01-28 21:21:28+00:00,street numbers,Missing highway in associatedStreet relation,0
+3161,22293,31629,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,Bad parking:[side]:direction value,0
+1110,22306,1,yemen,Osmosis_Highway_Link,2023-01-28 21:21:28+00:00,bad *_link highway,Bad *_link highway,0
+9015,22293,9015037,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,signals should have a railway:signal:direction=* tag,0
+3032,22293,303210,yemen,Sax,2023-01-28 21:21:28+00:00,multiple tags,"Fence with material tag, better use fence_type tag",0
+6010,420370,114,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=14,0
+9015,22293,9015018,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,radio=GSM-R is deprecated,0
+9015,22293,9015028,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,"Milestone without position, add railway:position=*",0
+3160,26131,1,yemen,Osmosis_Highway_Turn_Lanes,2023-01-28 21:21:28+00:00,"incorrect ""lanes""",Bad lanes number or `turn:lanes` before and after this node,0
+1060,22312,1,yemen,Osmosis_Boundary_Intersect,2023-01-28 21:21:28+00:00,boundary intersect,Boundary intersection,0
+1160,22308,1,yemen,Osmosis_Relation_Large,2023-01-28 21:21:28+00:00,big relation,Large relation,0
+9004,22293,9004009,yemen,Sax,2023-01-28 21:21:28+00:00,highway,missing tag,0
+9002,22293,9002011,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,key with uncommon character,0
+9002,22293,9002020,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,unusual value of {{0.key}},0
+6010,420370,110,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=10,0
+9014,22293,9014010,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,"Missing transportation mode, change tag route to route_master",0
+9015,22293,9015042,yemen,Sax,2023-01-28 21:21:28+00:00,openrailwaymap,interlocking relation without type=railway,0
+3180,22322,3,yemen,Osmosis_Relation_Restriction,2023-01-28 21:21:28+00:00,relation type=restriction,Unconnected restriction relation ways,0
+9014,22293,9014026,yemen,Sax,2023-01-28 21:21:28+00:00,public transport,"Check the network tag : this network does not exist, it may be a typo",0
+3160,22293,31601,yemen,Sax,2023-01-28 21:21:28+00:00,"incorrect ""lanes""",Bad lanes value,0
+9006,22293,9006002,yemen,Sax,2023-01-28 21:21:28+00:00,numeric,{{0.key}} value with + sign,0
+6010,420370,103,yemen,Osmosis_Relation_Open,2023-01-28 21:21:28+00:00,open polygon,Open relation type=boundary admin_level=3,0
+9000,22293,9000003,yemen,Sax,2023-01-28 21:21:28+00:00,addresses,Same value of {{0.key}} and {{1.key}},0
+3032,22293,30329,yemen,Sax,2023-01-28 21:21:28+00:00,multiple tags,{{0.key}}={{0.value}} with {{1.key}}={{1.value}},0
+1040,22300,1,yemen,Osmosis_Polygon,2023-01-28 21:21:28+00:00,invalid polygon,Invalid polygon,0
+4030,22293,40301,yemen,Sax,2023-01-28 21:21:28+00:00,incompatible tags,cycleway with cycleway:right and cycleway:left,0
+9004,22293,9004006,yemen,Sax,2023-01-28 21:21:28+00:00,highway,deprecated tagging,0
+3161,22293,31615,yemen,Sax,2023-01-28 21:21:28+00:00,parking lane,Bad parking:lane:[side] value,0
+4090,22313,1,yemen,Osmosis_Node_Like_Way,2023-01-28 21:21:28+00:00,unwanted tag on node,Way node tagged like way,0
+9002,22293,9002024,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,{{0.key}}={{0.value}} is unspecific,0
+1300,22293,51,yemen,Sax,2023-01-28 21:21:28+00:00,indoor,This indoor feature should have a level,0
+7120,22320,6,yemen,Osmosis_Boundary_Relation,2023-01-28 21:21:28+00:00,relation type=boundary,Invalid role,0
+9004,22293,9004002,yemen,Sax,2023-01-28 21:21:28+00:00,highway,wrong crossing tag on a way,0
+9002,22293,9002019,yemen,Sax,2023-01-28 21:21:28+00:00,deprecated,wrong value: {{0.key}}={{0.value}},0
