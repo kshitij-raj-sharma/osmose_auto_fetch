@@ -18,12 +18,12 @@ jobs:
       - name: Install necessary dependecies
         run: |
           pip install -r requirements.txt
+          
       - name: Run Application
         run: |
           python app.py
 
       - name: Add report to git
-
         run: |
           git pull 
           git config --global user.email "skshitizraj@gmail.com"
