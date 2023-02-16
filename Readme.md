@@ -8,4 +8,5 @@ How to add New Country ?
 
 - Go to https://osmose.openstreetmap.fr/en/control/update_matrix
 - Find a country name you want to add 
-- Go to ``app.py line 8 ``` and Add country on the list 
+- Go to ```app.py line 8 ``` and Add country on the list 
+- Run Script Again 
