@@ -1,7 +1,7 @@
 # %%
 import pandas as pd
 import requests
-
+import datetime
 # %%
 BASE_API_URL = "https://osmose.openstreetmap.fr/en/issues/open.json?item=xxxx"
 
@@ -134,7 +134,7 @@ for key in conflicted_countries.keys():
 
 pivot["Total"] = pivot.sum(axis=1)
 pivot.loc["Total"] = pivot.sum(axis=0)
-
+pivot['Fetched_date'] = datetime.datetime.now()
 # %%
 print(pivot.columns.tolist())
 
