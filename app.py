@@ -27,6 +27,8 @@ countries = [
     "Sri Lanka",
     "East Timor",
     "Tonga",
+    "Turkey",
+    "Syria",
     "Uzbekistan",
     "Vanuatu",
     "VietNam",
