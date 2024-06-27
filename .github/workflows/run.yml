@@ -26,8 +26,8 @@ jobs:
       - name: Add report to git
         run: |
           git pull 
-          git config --global user.email "skshitizraj@gmail.com"
-          git config --global user.name "kshitijrajsharma"
+          git config --global user.email "kshitijrajsharma@gmail.com"
+          git config --global user.name "kshitij-raj-sharma"
           git add -f data/meta.csv
           git add -f data/summary.csv
           git commit -m "Updated Report"
